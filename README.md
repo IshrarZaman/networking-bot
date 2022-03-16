@@ -13,11 +13,17 @@ Python script that automates sending LinkedIn connection requests and emails for
 
 
 
-##Usage
+## Usage
 
 ```bash
 python3 Networking_Bot.py
 ```
+
+## References
+
+[LinkedIn API](https://github.com/tomquirk/linkedin-api)
+
+[Gmail API](https://developers.google.com/gmail/api)
 
 
 
